@@ -5,4 +5,5 @@ Rules and regulations
 2. Clone the Forked repository.
 3. Append your name to the contributors list and your profile to the Profile list
 4. Write a Hello world program in the language of your choice. the program should be in the <hello> folder under <your language directory>.
+Your hello world program should be saved as hello_<name>
 5. Commit the necessary changes
