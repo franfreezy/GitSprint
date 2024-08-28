@@ -5,4 +5,4 @@ twitter:https://twitter.com/codewithfreezy
 website:https://devfreezy.netlify.app/
 
 index:#2
-Laravel, PHP , JavaScripty
+Laravel, PHP , JavaScripty, Web dev, .Net
