@@ -4,5 +4,5 @@ linkedin:https://www.linkedin.com/in/frandel-wanjawa/
 twitter:https://twitter.com/codewithfreezy
 website:https://devfreezy.netlify.app/
 
-index:#2
+index:#3
 Laravel, PHP , JavaScript
